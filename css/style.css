@@ -1,0 +1,14 @@
+body {
+    background-color: lightsalmon;
+    margin: 0 20% 20% 20%;
+    text-align: center;
+}
+
+hr {
+    width: 90%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
