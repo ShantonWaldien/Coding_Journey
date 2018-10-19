@@ -2,4 +2,4 @@
 My 6 months coding journey.
 
 ## Live Link
-https://shantonwaldien.github.io/Coding_Journey/
+https://shantonwaldien.github.io/coding-journey/index.html
